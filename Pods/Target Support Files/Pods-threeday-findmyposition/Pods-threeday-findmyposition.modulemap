@@ -1,0 +1,6 @@
+framework module Pods_threeday_findmyposition {
+  umbrella header "Pods-threeday-findmyposition-umbrella.h"
+
+  export *
+  module * { export * }
+}
